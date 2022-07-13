@@ -134,6 +134,8 @@ footer::after {
    clear: both;
 }
 
+
+
 /* ===============================
    Mobile Styles: 0px to 640px 
    ===============================
@@ -171,6 +173,7 @@ footer::after {
       width: 100%;
    }
 }
+
 
 /* =============================================
    Tablet and Desktop Styles: greater than 640px
