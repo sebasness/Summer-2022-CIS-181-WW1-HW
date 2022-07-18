@@ -45,6 +45,7 @@ header img#logoimg {
    width: 100%;
 }
 
+
 /* Navigation list styles */
 
 header nav ul {
@@ -86,6 +87,16 @@ article h1 {
    letter-spacing: 0.03em;
    line-height: 1.2em;
    margin-bottom: 20px;
+}
+article h2 {
+   margin: 1em 0 0.5em 0;
+   color: #343434;
+   font-weight: normal;
+   font-family: 'Ultra', sans-serif;
+   font-size: 20px;
+   line-height: 22px;
+   text-transform: uppercase;
+   text-shadow: 0 2px white, 0 3px #777;
 }
 
 article p {
